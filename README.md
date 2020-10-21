@@ -3,7 +3,7 @@
 # Google Analytics for Firebase with Expo React Native
 🔥 Expo React Native sample app with Google Analytics for Firebase
 
-## Expo configuration
+## Expo setup details
 * Managed Workflow (https://docs.expo.io/introduction/managed-vs-bare/#managed-workflow)
 * JavaScript
 
@@ -11,6 +11,14 @@
 * Expo SDK - FirebaseAnalytics package: https://docs.expo.io/versions/v39.0.0/sdk/firebase-analytics/ 
 * Setup the native Firebase SDK: https://docs.expo.io/guides/setup-native-firebase/ 
 * Firebase package install with NPM (npm i firebase): https://www.npmjs.com/package/firebase
+
+## How to run?
+* expo start
+* Select : "Run in web browser"
+
+## How to send data to your Firebase project and apps?
+* For iOS, add your Firebase GoogleService-Info.plist file to the root folder (cf. app.json config)
+* For Web, add your Firebase Web app config to app.json
 
 ## More information and contribution
 💌 hello@edgeangel.co
