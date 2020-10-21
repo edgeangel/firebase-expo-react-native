@@ -4,7 +4,7 @@
 🔥 Expo React Native sample app with Google Analytics for Firebase
 
 ## About this Expo sample app
-* Managed Workflow (https://docs.expo.io/introduction/managed-vs-bare/#managed-workflow)
+* [Managed Workflow](https://docs.expo.io/introduction/managed-vs-bare/#managed-workflow)
 * JavaScript
 
 ## How to quickly run and test?
@@ -12,7 +12,7 @@
 * ```expo start```
 * Select : "Run in web browser"
 * Click on "Log Event 1"
-* In the Chrome Dev Tools Console > Network tab, you should see a collect request to www.google-analytics.com
+* In the Chrome Dev Tools Console > Network tab, you should see a collect request to www.google-analytics.com ([screenshot](https://drive.google.com/file/d/1aIobo9xiJ8EYRcGS2jEZCn8-WEFDY6i9/view?usp=sharing))
 
 ## Expo and Firebase setup - Resources
 * Expo SDK - FirebaseAnalytics package: https://docs.expo.io/versions/v39.0.0/sdk/firebase-analytics/ 
