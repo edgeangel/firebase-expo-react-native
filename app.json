@@ -17,10 +17,24 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.google-analytics-firebase",
+      "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "add-your-api-key-here",
+          "authDomain": "your-domain-here.firebaseapp.com",
+          "databaseURL": "https://your-domain-here.firebaseio.com",
+          "projectId": "add-your-project-id-here",
+          "storageBucket": "your-domain-here.appspot.com",
+          "messagingSenderId": "add-your-messenger-id-here",
+          "appId": "add-your-app-id-here",
+          "measurementId": "G-123456"
+        }
+      }
     }
   }
 }

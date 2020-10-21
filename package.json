@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "expo": "~39.0.2",
+    "expo-firebase-analytics": "~2.5.0",
     "expo-status-bar": "~1.0.2",
+    "firebase": "^7.24.0",
     "node-fetch": "^2.6.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
