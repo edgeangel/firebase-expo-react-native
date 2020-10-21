@@ -8,10 +8,6 @@
 * JavaScript
 
 ## Resources
-* Google Analytics for Firebase in a WebView: https://github.com/edgeangel/firebase-webview
-* Google Analytics for Firebase with Android Kotlin: https://github.com/edgeangel/firebase-android-kotlin
-
-
 * Expo SDK - FirebaseAnalytics package: https://docs.expo.io/versions/v39.0.0/sdk/firebase-analytics/ 
 * Setup the native Firebase SDK: https://docs.expo.io/guides/setup-native-firebase/ 
 * Firebase package install with NPM (npm i firebase): https://www.npmjs.com/package/firebase
